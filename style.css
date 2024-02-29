@@ -1,10 +1,10 @@
-@media screen and (min-width: 601px) {
+
   * {
       margin: 0;
       padding: 0;
       box-sizing: border-box;
     }
-
+   
     body {
       font-family: Arial, sans-serif;
       background-color: rgb(16, 31, 55);
@@ -137,7 +137,7 @@
       
     }
     .picture{
-      background-image: url("photo-1510936111840-65e151ad71bb.avif");
+      background-image: url(photo-1510936111840-65e151ad71bb.avif);
       background-size: cover;
       border-radius: 10px;
       z-index: 1;
@@ -249,4 +249,4 @@
       border-radius: 5px;
       cursor: pointer;
     }
-  }
+  
