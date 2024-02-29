@@ -140,7 +140,7 @@
       
     }
     .picture{
-      background-image: url(photo-1510936111840-65e151ad71bb.avif);
+      background-image: url("photo-1510936111840-65e151ad71bb.avif");
       background-size: cover;
       border-radius: 10px;
       z-index: 1;
